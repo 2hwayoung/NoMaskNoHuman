@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/spring/logs/archive" />
+      <excludeFolder url="file://$MODULE_DIR$/spring/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/spring/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/spring/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/spring/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/spring/build" />
+      <excludeFolder url="file://$MODULE_DIR$/spring/out" />
+      <excludeFolder url="file://$MODULE_DIR$/spring/sample" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

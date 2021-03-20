@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>S3 파일 업로드 테스트 페이지</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<h1>영상 파일 업로드</h1> <hr>
+
+<form th:action="@{/video}" method="Post" enctype="multipart/form-data">
+    제목 : <input type="text" name="title"> <br>
+    파일 : <input type="file" name="file"> <br>
+    <br />
+    <button>등록하기</button>
+</form>
+</body>
+</html>
